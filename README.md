@@ -37,3 +37,6 @@ npm run dev
 ## API Info
 https://jsonplaceholder.typicode.com/posts?_page=1&_limit=10
 The API supports pagination and includes x-total-count in the headers to determine total posts.
+
+## Live Demo link
+https://infinite-scroll-react-ochre.vercel.app/
